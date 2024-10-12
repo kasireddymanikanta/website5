@@ -1,0 +1,16 @@
+/* Hero Section for Home Page */
+.hero {
+    background-color: #ffeb3b;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    color: #333;
+    font-size: 2.5rem;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 20px;
+}
